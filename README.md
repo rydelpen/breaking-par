@@ -1,1 +1,1 @@
-Simple Magic 8 Ball Practice Project
+Anything within the breaking-par repository is Code Academy Practice Projects
